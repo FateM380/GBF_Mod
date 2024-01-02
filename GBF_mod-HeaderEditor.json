@@ -9,7 +9,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/130301_wa_1_01_ap.png"
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/130301_wa_1_01_ap.png",
 			"group": "GBF_mod-Djeeta-Warlock",
 		}
 	],
