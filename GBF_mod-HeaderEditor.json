@@ -5,7 +5,7 @@
 			"name": "姬塔-术士",
 			"ruleType": "redirect",
 			"matchType": "regexp",
-			"pattern": "^https?:\/\/prd-game-a[0-9]?-gbf\.akamaized\.net\/assets\/img\/sp\/assets\/leader\/btn\/130301_wa_1_01\.png",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/btn\\/130301_wa_1_01\\.png",
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
