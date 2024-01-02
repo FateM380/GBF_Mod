@@ -2,15 +2,39 @@
 	"request": [
 		{
 			"enable": true,
-			"name": "姬塔-术士",
+			"name": "姬塔-术士-btn",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/btn\\/130301_wa_1_01\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Djeeta-Warlock",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/btn/130301_wa_1_01_ap.png"
+		},
+		{
+			"enable": true,
+			"name": "姬塔-术士-coop",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/coopcoop\\/130301_wa_1_01\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Djeeta-Warlock",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/coop/130301_wa_1_01_ap.png"
+		},
+		{
+			"enable": true,
+			"name": "姬塔-术士-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/mymy\\/130301_wa_1_01\\.png",
 			"exclude": "",
+			"group": "GBF_mod-Djeeta-Warlock",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/130301_wa_1_01_ap.png",
-			"group": "GBF_mod-Djeeta-Warlock"
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/130301_wa_1_01_ap.png"
 		}
 	],
 	"sendHeader": [],
