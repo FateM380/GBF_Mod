@@ -1787,6 +1787,18 @@
 			"isFunction": false,
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040203000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "火团boss-卡西欧佩亚-cjs-b",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/csj\\/enemy_8104173_b\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Fire_Unite_and_Fight-Cassiopeia",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/enemy_8104173_b_ap.png"
 		}
 	],
 	"sendHeader": [],
