@@ -1,6 +1,8 @@
 {
 	"request": [
-		=====姬塔======
+		 ////角色
+		 ///姬塔
+		 //术士
 		{
 			"enable": true,
 			"name": "姬塔-术士-btn",
@@ -265,6 +267,9 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/wrk_wa_1_01_ap.png"
 		},
+		
+		////召唤
+		//泰坦
 		{
 			"enable": true,
 			"name": "召唤-泰坦-b",
@@ -397,6 +402,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040084000_02_ap.jpg"
 		},
+		//阿耆尼
 		{
 			"enable": true,
 			"name": "召唤-阿耆尼-b",
@@ -529,6 +535,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040094000_02_ap.jpg"
 		},
+		//宙斯
 		{
 			"enable": true,
 			"name": "召唤-宙斯-b",
@@ -661,6 +668,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040080000_02_ap.jpg"
 		},
+		//贝利尔
 		{
 			"enable": true,
 			"name": "召唤-贝利尔-b",
@@ -805,6 +813,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040347000_ap.jpg"
 		},
+		//别西卜
 		{
 			"enable": true,
 			"name": "召唤-别西卜-b",
@@ -949,6 +958,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040408000_ap.jpg"
 		},
+		//巴哈姆特[lv250]
 		{
 			"enable": true,
 			"name": "召唤-巴哈姆特[lv250]-b",
@@ -1093,6 +1103,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040003000_04_ap.jpg"
 		},
+		//路西菲尔[lv250]
 		{
 			"enable": true,
 			"name": "召唤-路西菲尔[lv250]-b",
@@ -1237,6 +1248,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040056000_04_ap.jpg"
 		},
+		//伐楼那
 		{
 			"enable": true,
 			"name": "召唤-伐楼那-b",
@@ -1381,6 +1393,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040100000_02_ap.jpg"
 		},
+		//黄龙
 		{
 			"enable": true,
 			"name": "召唤-黄龙-b",
@@ -1525,6 +1538,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040157000_ap.jpg"
 		},
+		//黑麒麟
 		{
 			"enable": true,
 			"name": "召唤-黑麒麟-b",
@@ -1669,6 +1683,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040158000_ap.jpg"
 		},
+		//乌列尔
 		{
 			"enable": true,
 			"name": "召唤-乌列尔-b",
@@ -1813,6 +1828,9 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040203000_ap.jpg"
 		},
+		
+		////敌方动态
+		//火团boss-卡西欧佩亚
 		{
 			"enable": true,
 			"name": "火团boss-卡西欧佩亚-cjs-b",
