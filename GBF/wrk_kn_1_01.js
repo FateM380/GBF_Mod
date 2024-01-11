@@ -1,0 +1,1 @@
+define(["jquery","backbone"],function(a,b){var c=b.Model.extend({defaults:{manifest:[{src:Game.imgUri+"/sp/cjs/weapon.png",id:"weapon",type:"image"},{src:Game.imgUri+"https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/wrk_kn_1_01_ap.png",id:"wrk_kn_1_01",type:"image"},{src:Game.imgUri+"/sp/cjs/wrk_kn_1_01_head.png",id:"wrk_kn_1_01_head",type:"image"}]}});return c});
