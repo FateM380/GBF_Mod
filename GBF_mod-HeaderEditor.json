@@ -1,5 +1,6 @@
 {
 	"request": [
+		=====姬塔=====
 		{
 			"enable": true,
 			"name": "姬塔-术士-btn",
@@ -264,6 +265,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/wrk_wa_1_01_ap.png"
 		},
+		=====召唤-泰坦=====
 		{
 			"enable": true,
 			"name": "召唤-泰坦-b",
