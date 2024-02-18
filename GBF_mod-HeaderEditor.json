@@ -1827,6 +1827,151 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040203000_ap.jpg"
 		},
+
+		{
+			"enable": true,
+			"name": "召唤-零零零-b",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040425000\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/b/2040425000_ap.png"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-btn",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040425000\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/btn/2040425000_ap.png"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-cutin",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/cutin/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-detail",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040425000\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/detail/2040425000_ap.png"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-ls",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/ls/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-m",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/m/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-my",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040425000\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/my/2040425000_ap.png"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-party_main",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/party_main/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-party_sub",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/party_sub/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-raid_normal",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/raid_normal/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-quest",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/quest\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/quest/2040425000_ap.jpg"
+		},
+		{
+			"enable": true,
+			"name": "召唤-零零零-s",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040425000\\.jpg",
+			"exclude": "",
+			"group": "GBF_mod-Summon-Triple Zero",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040425000_ap.jpg"
+		},
 		
 		
 		{
