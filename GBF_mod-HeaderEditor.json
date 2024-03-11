@@ -271,7 +271,7 @@
 		
 		{
 			"enable": true,
-			"name": "召唤-泰坦-b",
+			"name": "召唤-泰坦02-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040084000_02\\.png",
@@ -283,7 +283,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-btn",
+			"name": "召唤-泰坦02-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040084000_02\\.png",
@@ -295,7 +295,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-cutin",
+			"name": "召唤-泰坦02-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040084000_02\\.jpg",
@@ -307,7 +307,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-detail",
+			"name": "召唤-泰坦02-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040084000_02\\.png",
@@ -319,7 +319,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-ls",
+			"name": "召唤-泰坦02-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040084000_02\\.jpg",
@@ -331,7 +331,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-m",
+			"name": "召唤-泰坦02-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040084000_02\\.jpg",
@@ -343,7 +343,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-my",
+			"name": "召唤-泰坦02-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040084000_02\\.png",
@@ -355,7 +355,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-party_main",
+			"name": "召唤-泰坦02-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040084000_02\\.jpg",
@@ -367,7 +367,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-party_sub",
+			"name": "召唤-泰坦02-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040084000_02\\.jpg",
@@ -379,7 +379,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-raid_normal",
+			"name": "召唤-泰坦02-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040084000_02\\.jpg",
@@ -391,7 +391,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-s",
+			"name": "召唤-泰坦02-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040084000_02\\.jpg",
@@ -404,7 +404,7 @@
 
 		{
 			"enable": true,
-			"name": "召唤-泰坦-b",
+			"name": "召唤-泰坦03-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040084000_03\\.png",
@@ -416,7 +416,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-btn",
+			"name": "召唤-泰坦03-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040084000_03\\.png",
@@ -428,7 +428,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-cutin",
+			"name": "召唤-泰坦03-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040084000_03\\.jpg",
@@ -440,7 +440,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-detail",
+			"name": "召唤-泰坦03-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040084000_03\\.png",
@@ -452,7 +452,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-ls",
+			"name": "召唤-泰坦03-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040084000_03\\.jpg",
@@ -464,7 +464,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-m",
+			"name": "召唤-泰坦03-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040084000_03\\.jpg",
@@ -476,7 +476,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-my",
+			"name": "召唤-泰坦03-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040084000_03\\.png",
@@ -488,7 +488,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-party_main",
+			"name": "召唤-泰坦03-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040084000_03\\.jpg",
@@ -500,7 +500,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-party_sub",
+			"name": "召唤-泰坦03-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040084000_03\\.jpg",
@@ -512,7 +512,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-raid_normal",
+			"name": "召唤-泰坦03-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040084000_03\\.jpg",
@@ -524,7 +524,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-s",
+			"name": "召唤-泰坦03-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040084000_03\\.jpg",
@@ -537,7 +537,7 @@
 
 		{
 			"enable": true,
-			"name": "召唤-泰坦-b",
+			"name": "召唤-泰坦04-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040084000_04\\.png",
@@ -549,7 +549,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-btn",
+			"name": "召唤-泰坦04-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040084000_04\\.png",
@@ -561,7 +561,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-cutin",
+			"name": "召唤-泰坦04-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040084000_04\\.jpg",
@@ -573,7 +573,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-detail",
+			"name": "召唤-泰坦04-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040084000_04\\.png",
@@ -585,7 +585,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-ls",
+			"name": "召唤-泰坦04-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040084000_04\\.jpg",
@@ -597,7 +597,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-m",
+			"name": "召唤-泰坦04-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040084000_04\\.jpg",
@@ -609,7 +609,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-my",
+			"name": "召唤-泰坦04-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040084000_04\\.png",
@@ -621,7 +621,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-party_main",
+			"name": "召唤-泰坦04-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040084000_04\\.jpg",
@@ -633,7 +633,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-party_sub",
+			"name": "召唤-泰坦04-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040084000_04\\.jpg",
@@ -645,7 +645,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-raid_normal",
+			"name": "召唤-泰坦04-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040084000_04\\.jpg",
@@ -657,7 +657,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-泰坦-s",
+			"name": "召唤-泰坦04-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040084000_04\\.jpg",
@@ -670,7 +670,7 @@
 		
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-b",
+			"name": "召唤-阿耆尼02-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040094000_02\\.png",
@@ -682,7 +682,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-btn",
+			"name": "召唤-阿耆尼02-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040094000_02\\.png",
@@ -694,7 +694,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-cutin",
+			"name": "召唤-阿耆尼02-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040094000_02\\.jpg",
@@ -706,7 +706,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-detail",
+			"name": "召唤-阿耆尼02-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040094000_02\\.png",
@@ -718,7 +718,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-ls",
+			"name": "召唤-阿耆尼02-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040094000_02\\.jpg",
@@ -730,7 +730,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-m",
+			"name": "召唤-阿耆尼02-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040094000_02\\.jpg",
@@ -742,7 +742,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-my",
+			"name": "召唤-阿耆尼02-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040094000_02\\.png",
@@ -754,7 +754,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-party_main",
+			"name": "召唤-阿耆尼02-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040094000_02\\.jpg",
@@ -766,7 +766,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-party_sub",
+			"name": "召唤-阿耆尼02-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040094000_02\\.jpg",
@@ -778,7 +778,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-raid_normal",
+			"name": "召唤-阿耆尼02-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040094000_02\\.jpg",
@@ -790,7 +790,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-s",
+			"name": "召唤-阿耆尼02-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040094000_02\\.jpg",
@@ -803,7 +803,7 @@
 
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-b",
+			"name": "召唤-阿耆尼03-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040094000_03\\.png",
@@ -815,7 +815,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-btn",
+			"name": "召唤-阿耆尼03-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040094000_03\\.png",
@@ -827,7 +827,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-cutin",
+			"name": "召唤-阿耆尼03-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040094000_03\\.jpg",
@@ -839,7 +839,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-detail",
+			"name": "召唤-阿耆尼03-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040094000_03\\.png",
@@ -851,7 +851,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-ls",
+			"name": "召唤-阿耆尼03-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040094000_03\\.jpg",
@@ -863,7 +863,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-m",
+			"name": "召唤-阿耆尼03-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040094000_03\\.jpg",
@@ -875,7 +875,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-my",
+			"name": "召唤-阿耆尼03-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040094000_03\\.png",
@@ -887,7 +887,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-party_main",
+			"name": "召唤-阿耆尼03-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040094000_03\\.jpg",
@@ -899,7 +899,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-party_sub",
+			"name": "召唤-阿耆尼03-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040094000_03\\.jpg",
@@ -911,7 +911,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-raid_normal",
+			"name": "召唤-阿耆尼03-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040094000_03\\.jpg",
@@ -923,7 +923,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-s",
+			"name": "召唤-阿耆尼03-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040094000_03\\.jpg",
@@ -936,7 +936,7 @@
 		
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-b",
+			"name": "召唤-阿耆尼04-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040094000_04\\.png",
@@ -948,7 +948,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-btn",
+			"name": "召唤-阿耆尼04-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040094000_04\\.png",
@@ -960,7 +960,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-cutin",
+			"name": "召唤-阿耆尼04-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040094000_04\\.jpg",
@@ -972,7 +972,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-detail",
+			"name": "召唤-阿耆尼04-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040094000_04\\.png",
@@ -984,7 +984,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-ls",
+			"name": "召唤-阿耆尼04-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040094000_04\\.jpg",
@@ -996,7 +996,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-m",
+			"name": "召唤-阿耆尼04-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040094000_04\\.jpg",
@@ -1008,7 +1008,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-my",
+			"name": "召唤-阿耆尼04-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040094000_04\\.png",
@@ -1020,7 +1020,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-party_main",
+			"name": "召唤-阿耆尼04-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040094000_04\\.jpg",
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-party_sub",
+			"name": "召唤-阿耆尼04-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040094000_04\\.jpg",
@@ -1044,7 +1044,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-raid_normal",
+			"name": "召唤-阿耆尼04-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040094000_04\\.jpg",
@@ -1056,7 +1056,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-阿耆尼-s",
+			"name": "召唤-阿耆尼04-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040094000_04\\.jpg",
@@ -1069,7 +1069,7 @@
 		
 		{
 			"enable": true,
-			"name": "召唤-宙斯-b",
+			"name": "召唤-宙斯02-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040080000_02\\.png",
@@ -1081,7 +1081,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-btn",
+			"name": "召唤-宙斯02-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040080000_02\\.png",
@@ -1093,7 +1093,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-cutin",
+			"name": "召唤-宙斯02-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040080000_02\\.jpg",
@@ -1105,7 +1105,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-detail",
+			"name": "召唤-宙斯02-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040080000_02\\.png",
@@ -1117,7 +1117,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-ls",
+			"name": "召唤-宙斯02-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040080000_02\\.jpg",
@@ -1129,7 +1129,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-m",
+			"name": "召唤-宙斯02-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040080000_02\\.jpg",
@@ -1141,7 +1141,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-my",
+			"name": "召唤-宙斯02-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040080000_02\\.png",
@@ -1153,7 +1153,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-party_main",
+			"name": "召唤-宙斯02-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040080000_02\\.jpg",
@@ -1165,7 +1165,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-party_sub",
+			"name": "召唤-宙斯02-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040080000_02\\.jpg",
@@ -1177,7 +1177,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-raid_normal",
+			"name": "召唤-宙斯02-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040080000_02\\.jpg",
@@ -1189,7 +1189,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-s",
+			"name": "召唤-宙斯02-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040080000_02\\.jpg",
@@ -1202,7 +1202,7 @@
 
 		{
 			"enable": true,
-			"name": "召唤-宙斯-b",
+			"name": "召唤-宙斯03-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040080000_03\\.png",
@@ -1214,7 +1214,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-btn",
+			"name": "召唤-宙斯03-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040080000_03\\.png",
@@ -1226,7 +1226,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-cutin",
+			"name": "召唤-宙斯03-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040080000_03\\.jpg",
@@ -1238,7 +1238,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-detail",
+			"name": "召唤-宙斯03-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040080000_03\\.png",
@@ -1250,7 +1250,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-ls",
+			"name": "召唤-宙斯03-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040080000_03\\.jpg",
@@ -1262,7 +1262,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-m",
+			"name": "召唤-宙斯03-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040080000_03\\.jpg",
@@ -1274,7 +1274,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-my",
+			"name": "召唤-宙斯03-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040080000_03\\.png",
@@ -1286,7 +1286,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-party_main",
+			"name": "召唤-宙斯03-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040080000_03\\.jpg",
@@ -1298,7 +1298,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-party_sub",
+			"name": "召唤-宙斯03-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040080000_03\\.jpg",
@@ -1310,7 +1310,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-raid_normal",
+			"name": "召唤-宙斯03-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040080000_03\\.jpg",
@@ -1322,7 +1322,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-s",
+			"name": "召唤-宙斯03-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040080000_03\\.jpg",
@@ -1335,7 +1335,7 @@
 
 		{
 			"enable": true,
-			"name": "召唤-宙斯-b",
+			"name": "召唤-宙斯04-b",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040080000_04\\.png",
@@ -1347,7 +1347,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-btn",
+			"name": "召唤-宙斯04-btn",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040080000_04\\.png",
@@ -1359,7 +1359,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-cutin",
+			"name": "召唤-宙斯04-cutin",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040080000_04\\.jpg",
@@ -1371,7 +1371,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-detail",
+			"name": "召唤-宙斯04-detail",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040080000_04\\.png",
@@ -1383,7 +1383,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-ls",
+			"name": "召唤-宙斯04-ls",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040080000_04\\.jpg",
@@ -1395,7 +1395,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-m",
+			"name": "召唤-宙斯04-m",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040080000_04\\.jpg",
@@ -1407,7 +1407,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-my",
+			"name": "召唤-宙斯04-my",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040080000_04\\.png",
@@ -1419,7 +1419,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-party_main",
+			"name": "召唤-宙斯04-party_main",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040080000_04\\.jpg",
@@ -1431,7 +1431,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-party_sub",
+			"name": "召唤-宙斯04-party_sub",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040080000_04\\.jpg",
@@ -1443,7 +1443,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-raid_normal",
+			"name": "召唤-宙斯04-raid_normal",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040080000_04\\.jpg",
@@ -1455,7 +1455,7 @@
 		},
 		{
 			"enable": true,
-			"name": "召唤-宙斯-s",
+			"name": "召唤-宙斯04-s",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040080000_04\\.jpg",
