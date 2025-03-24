@@ -427,7 +427,7 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_ml/311301_sw_1_01_ap.jpg"
 		},
-		
+
 
 
 
@@ -1532,7 +1532,7 @@
 
 
 
-    {
+{
       "enable": true,
       "name": "GBF_mod-NPC-Estarriola-b",
       "ruleType": "redirect",
@@ -1928,6 +1928,7 @@
       "action": "redirect",
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/zoom/3040163000_81_ap.png"
     },
+
 
 
 
