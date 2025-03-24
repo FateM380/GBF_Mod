@@ -3,6 +3,9 @@
 	"request": [
 		
 		
+		
+		
+		
 		{
 			"enable": true,
 			"name": "姬塔-术士-btn",
@@ -424,8 +427,712 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_ml/311301_sw_1_01_ap.jpg"
 		},
-	
-	
+
+
+
+
+
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-b-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/b\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/b/3710143000_82_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-b-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/b\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/b/3710143000_01_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-cutin_special-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/cutin_special\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/cutin_special/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-cutin_special-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/cutin_special\\/3710143000_01\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/cutin_special/3710143000_01_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-detail-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/detail\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/detail/3710143000_82_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-detail-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/detail\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/detail/3710143000_01_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-82-s1",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_82_s1\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_82_s1_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-82-s2",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_82_s2\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_82_s2_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-82-s3",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_82_s3\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_82_s3_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-82-s4",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_82_s4\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_82_s4_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-82-s5",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_82_s5\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_82_s5_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-82-s6",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_82_s6\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_82_s6_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/3710143000_01\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/3710143000_01_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-01-s1",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_01_s1\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_01_s1_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-01-s2",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_01_s2\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_01_s2_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-01-s3",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_01_s3\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_01_s3_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-01-s4",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_01_s4\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_01_s4_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-01-s5",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_01_s5\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_01_s5_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-f-skin-01-s6",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/skin\\/3710143000_01_s6\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/skin/3710143000_01_s6_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-gacha-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/gacha\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/detail/3710143000_82_ap.png"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-gacha-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/gacha\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/detail/3710143000_01_ap.png"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-m-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/m\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/m/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-m-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/m\\/3710143000_01\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/m/3710143000_01_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-my-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/my\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/my/3710143000_82_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-my-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/my\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/my/3710143000_01_ap.png"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-npc_evolution-main-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/npc_evolution\\/main\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/npc_evolution/main/3710143000_82_ap.png"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-qm-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/qm\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/qm/3710143000_82_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-qm-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/qm\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/qm/3710143000_01_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-82-s1",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_82_s1\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_82_s1_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-82-s2",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_82_s2\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_82_s2_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-82-s3",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_82_s3\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_82_s3_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-82-s4",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_82_s4\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_82_s4_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-82-s5",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_82_s5\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_82_s5_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-82-s6",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_82_s6\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_82_s6_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/3710143000_01\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/3710143000_01_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-01-s1",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_01_s1\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_01_s1_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-01-s2",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_01_s2\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_01_s2_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-01-s3",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_01_s3\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_01_s3_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-01-s4",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_01_s4\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_01_s4_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-01-s5",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_01_s5\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_01_s5_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-quest-skin-01-s6",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/skin\\/3710143000_01_s6\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/skin/3710143000_01_s6_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-raid_chain-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/raid_chain\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/raid_chain/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-raid_chain-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/raid_chain\\/3710143000_01\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/raid_chain/3710143000_01_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-raid_normal-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/raid_normal\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/raid_normal/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-raid_normal-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/raid_normal\\/3710143000_01\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/raid_normal/3710143000_01_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-result_lvup-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/result_lvup\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/result_lvup/3710143000_82_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-result_lvup-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/result_lvup\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/result_lvup/3710143000_01_ap.png"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/3710143000_82\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/3710143000_82_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-skin-82-s1",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/skin\\/3710143000_82_s1\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/skin/3710143000_82_s1_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-skin-82-s2",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/skin\\/3710143000_82_s2\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/skin/3710143000_82_s2_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-skin-82-s3",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/skin\\/3710143000_82_s3\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/skin/3710143000_82_s3_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-skin-82-s4",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/skin\\/3710143000_82_s4\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/skin/3710143000_82_s4_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-skin-82-s5",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/skin\\/3710143000_82_s5\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/skin/3710143000_82_s5_ap.jpg"
+    },
+    {
+        "enable": false,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-s-skin-82-s6",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/s\\/skin\\/3710143000_82_s6\\.jpg",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/s/skin/3710143000_82_s6_ap.jpg"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-zoom-82",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/zoom\\/3710143000_82\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/zoom/3710143000_82_ap.png"
+    },
+    {
+        "enable": true,
+        "name": "Vikala-Blooming Summer Wallflower-2Dtexture-zoom-01",
+        "ruleType": "redirect",
+        "matchType": "regexp",
+        "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/zoom\\/3710143000_01\\.png",
+        "exclude": "",
+        "group": "GBF_mod-Vikala-Blooming Summer Wallflower",
+        "isFunction": false,
+        "action": "redirect",
+        "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/zoom/3710143000_01_ap.png"
+    },
+
+
+
+
+
 		{
 			"enable": true,
 			"name": "召唤-泰坦02-b",
@@ -3507,6 +4214,9 @@
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/summon_evolution/main/2040046000_04_ap.png"
 		},
+
+
+
 
 		
 		{
