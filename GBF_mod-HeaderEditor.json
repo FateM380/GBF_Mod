@@ -428,9 +428,6 @@
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_ml/311301_sw_1_01_ap.jpg"
 		},
 
-
-
-
 		{
 		    "enable": true,
 		    "name": "Smart Elegance-battlemodule-sut_kn_1_01",
@@ -695,6 +692,247 @@
 		    "action": "redirect",
 		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/400001_kt_1_01_ap.png"
 		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-btn-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/btn\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/btn/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-coop-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/coop\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/coop/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-interlude-400001_1",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/interlude\\/400001_1\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/interlude/400001_1_ap.png"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-jlon-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/jlon\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/jlon/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-job_change-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/job_change\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/job_change/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-jobon_z-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/jobon_z\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/jobon_z/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-master_level-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/master_level\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/master_level/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-my-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/my\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-p-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/p\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/p/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-perfectionproof-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/perfectionproof\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/perfectionproof/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-pm-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/pm\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/pm/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-po-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/po\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/po/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-quest-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/quest\\/400001_kn_1_01\\.jpg",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/quest/400001_kn_1_01_ap.jpg"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-raid_chain-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_chain\\/400001_kn_1_01\\.jpg",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_chain/400001_kn_1_01_ap.jpg"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-raid_log-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_log\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_log/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-raid_normal-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_normal\\/400001_kn_1_01\\.jpg",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_normal/400001_kn_1_01_ap.jpg"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-result-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result\\/400001_kn_1_01\\.jpg",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result/400001_kn_1_01_ap.jpg"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-result_lvup-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result_lvup\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_lvup/400001_kn_1_01_ap.png"
+		},
+		{
+		    "enable": true,
+		    "name": "Smart Elegance-2Dtexture-result_ml-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result_ml\\/400001_kn_1_01\\.jpg",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_ml/400001_kn_1_01_ap.jpg"
+		},
+		{
+		    "enable": false,
+		    "name": "Smart Elegance-2Dtexture-zenith-400001_kn_1_01",
+		    "ruleType": "redirect",
+		    "matchType": "regexp",
+		    "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/zenith\\/400001_kn_1_01\\.png",
+		    "exclude": "",
+		    "group": "GBF_mod-Smart Elegance",
+		    "isFunction": false,
+		    "action": "redirect",
+		    "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/400001_kn_1_01_ap.png"
+		},
+
 		
 
 
