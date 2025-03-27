@@ -2440,7 +2440,151 @@
 		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_normal/340001_ax_1_01_ap.jpg"
 		},
 		
-
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-btn",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/btn\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/btn/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-coop",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/coop\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/coop/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-interlude",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/interlude\\/400001_1\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/interlude/400001_1_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-jobon_z",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/jobon_z\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/jobon_z/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-my",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/my\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-p",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/p\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/p/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-pm",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/pm\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/pm/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-po",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/po\\/400001_kt_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/po/400001_kt_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-quest",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/quest\\/400001_kt_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/quest/400001_kt_1_01_ap.jpg"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-raid_chain",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_chain\\/400001_kt_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_chain/400001_kt_1_01_ap.jpg"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-raid_normal",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_normal\\/400001_kt_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_normal/400001_kt_1_01_ap.jpg"
+		},
+		{
+		  "enable": true,
+		  "name": "Firedancer's Roseplume-result_ml",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result_ml\\/400001_kt_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Firedancer's_Roseplume",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_ml/400001_kt_1_01_ap.jpg"
+		},
+	
 
 
 
