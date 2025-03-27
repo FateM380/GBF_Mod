@@ -2318,7 +2318,128 @@
  		  "action": "redirect",
  		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/310501_sw_1_01_ap.png"
  		},
- 			
+ 		
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-btn-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/btn\\/340001_ax_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/btn/340001_ax_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-coop-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/coop\\/340001_ax_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/coop/340001_ax_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-interlude-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/interlude\\/340001_1\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/interlude/340001_1_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-jobon_z-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/jobon_z\\/340001_ax_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/jobon_z/340001_ax_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-my-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/my\\/340001_ax_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/340001_ax_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-pm-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/pm\\/340001_ax_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/pm/340001_ax_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-po-png",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/po\\/340001_ax_1_01\\.png",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/po/340001_ax_1_01_ap.png"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-quest-jpg",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/quest\\/340001_ax_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/quest/340001_ax_1_01_ap.jpg"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-raid_chain-jpg",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_chain\\/340001_ax_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_chain/340001_ax_1_01_ap.jpg"
+		},
+		{
+		  "enable": true,
+		  "name": "Aqualord's Stoutshell-raid_normal-jpg",
+		  "ruleType": "redirect",
+		  "matchType": "regexp",
+		  "pattern": "^https?:\\/\\/prd-game-a[0-9]?-gbf\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_normal\\/340001_ax_1_01\\.jpg",
+		  "exclude": "",
+		  "group": "GBF_mod-Aqualord's_Stoutshell",
+		  "isFunction": false,
+		  "action": "redirect",
+		  "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_normal/340001_ax_1_01_ap.jpg"
+		},
+		
 
 
 
