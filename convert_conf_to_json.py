@@ -47,12 +47,12 @@ def extract_resource_info(pattern: str, target_url: str) -> Tuple[str, str, str]
     
     return "other", Path(target_url.split('/')[-1].split('?')[0]).stem, ""
 
-def convert_conf_to_json(conf_path: str, output_json_path: Optional[str] = None) -> List[Dict]:
+def convert_conf_to_json(conf_path: str, output_json_path: Optional[str] = None) -> Dict:
     """转换 .conf 文件到 .json 并实时显示详细日志"""
     conf_path = Path(conf_path)
     if not conf_path.exists():
         print(f"❌ 错误：输入文件 '{conf_path}' 不存在！")
-        return []
+        return {}
 
     print(f"\n📂 正在读取文件: {conf_path}")
 
@@ -61,7 +61,7 @@ def convert_conf_to_json(conf_path: str, output_json_path: Optional[str] = None)
             lines = f.readlines()
     except UnicodeDecodeError:
         print(f"❌ 文件 '{conf_path}' 不是有效的UTF-8编码！")
-        return []
+        return {}
 
     print(f"📌 读取完成，共 {len(lines)} 行数据。\n")
 
@@ -173,19 +173,27 @@ def convert_conf_to_json(conf_path: str, output_json_path: Optional[str] = None)
             "to": target_url
         })
 
+    # 构建最终的JSON结构
+    result = {
+        "request": rules,
+        "sendHeader": [],
+        "receiveHeader": [],
+        "receiveBody": []
+    }
+
     # 确定输出路径
     output_json_path = Path(output_json_path) if output_json_path else conf_path.with_suffix('.json')
 
     # 写入 JSON
     try:
         with open(output_json_path, 'w', encoding='utf-8') as f:
-            json.dump(rules, f, indent=2, ensure_ascii=False)
+            json.dump(result, f, indent=2, ensure_ascii=False)
         print(f"✅ 规则转换完成！共转换 {len(rules)} 条规则。")
         print(f"📄 输出 JSON 文件: {output_json_path}")
     except IOError as e:
         print(f"❌ 无法写入 JSON 文件 '{output_json_path}': {str(e)}")
 
-    return rules
+    return result
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
