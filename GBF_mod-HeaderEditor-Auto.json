@@ -20291,7 +20291,19 @@
       "isFunction": false,
       "action": "redirect",
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/summon_evolution/main/2040046000_04_ap.png"
-    }
+    },
+	{
+			"enable": true,
+			"name": "光团boss-25光团威沛-cjs-c",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/cjs\\/enemy_8104413_c\\.png",
+			"exclude": "",
+			"group": "GBF_mod-Light_Unite_and_Fight-Vepar",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/enemy_8104413_c_ap.png"
+		}
   ],
   "sendHeader": [],
   "receiveHeader": [],
