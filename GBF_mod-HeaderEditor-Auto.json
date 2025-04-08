@@ -1,7 +1,7 @@
 {
   "request": [
     {
-      "enable": false,
+      "enable": true,
       "name": "Warlock-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -13,7 +13,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/wrk_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Warlock-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -709,7 +709,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/130401_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Smart_Elegance-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -721,7 +721,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/sut_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Smart_Elegance-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -973,7 +973,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/320001_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Relic_Buster-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -985,7 +985,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/rlc_gu_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Relic_Buster-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -5401,7 +5401,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/zoom/3040110000_91_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Vikala-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -5413,7 +5413,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/npc_3710143000_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Vikala-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -20363,6 +20363,150 @@
       "isFunction": false,
       "action": "redirect",
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/quest/2040396000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-b",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/b\\/2040433000\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/b/2040433000_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-btn",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/btn\\/2040433000\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/btn/2040433000_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-cutin",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/cutin\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/cutin/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-detail",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/detail\\/2040433000\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/detail/2040433000_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-ls",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/ls\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/ls/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-m",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/m\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/m/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-my",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040433000\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/my/2040433000_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-party_main",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_main\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/party_main/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-party_sub",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/party_sub\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/party_sub/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-quest",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/quest\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/quest/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-raid_normal",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/raid_normal\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/raid_normal/2040433000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Orologia-s",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/s\\/2040433000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Orologia",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/s/2040433000_ap.jpg"
     },
 	{
 			"enable": true,
