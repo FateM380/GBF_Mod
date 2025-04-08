@@ -1,7 +1,7 @@
 {
   "request": [
     {
-      "enable": true,
+      "enable": false,
       "name": "Warlock-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -13,7 +13,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/wrk_kn_1_01_ap.png"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Warlock-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -709,7 +709,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/130401_kn_1_01_ap.png"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Smart_Elegance-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -721,7 +721,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/sut_kn_1_01_ap.png"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Smart_Elegance-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -971,6 +971,30 @@
       "isFunction": false,
       "action": "redirect",
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/320001_kn_1_01_ap.png"
+    },
+    {
+      "enable": false,
+      "name": "Relic_Buster-cjs",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/cjs\\/rlc_gu_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Relic_Buster",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/rlc_gu_1_01_ap.png"
+    },
+    {
+      "enable": false,
+      "name": "Relic_Buster-cjs_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/cjs\\/rlc_sw_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Relic_Buster",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/rlc_sw_1_01_ap.png"
     },
     {
       "enable": true,
@@ -5377,7 +5401,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/zoom/3040110000_91_ap.png"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Vikala-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -5389,7 +5413,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/npc_3710143000_01_ap.png"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Vikala-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -20292,6 +20316,54 @@
       "action": "redirect",
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/summon_evolution/main/2040046000_04_ap.png"
     },
+    {
+      "enable": true,
+      "name": "summon-Cerberus[swimsuit]-my",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040420000\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Cerberus[swimsuit]",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/my/2040420000_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "summon-Cerberus[swimsuit]-quest",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/quest\\/2040420000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Cerberus[swimsuit]",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/quest/2040420000_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "summon-Snapshot_of_Divinity-my",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/my\\/2040396000\\.png",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Snapshot_of_Divinity",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/my/2040396000_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "summon-Snapshot_of_Divinity-quest",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/summon\\/quest\\/2040396000\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-Summon-Snapshot_of_Divinity",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/summon/quest/2040396000_ap.jpg"
+    },
 	{
 			"enable": true,
 			"name": "光团boss-25光团威沛-cjs-c",
@@ -20303,7 +20375,7 @@
 			"isFunction": false,
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/enemy_8104413_c_ap.png"
-		}
+	}
   ],
   "sendHeader": [],
   "receiveHeader": [],
