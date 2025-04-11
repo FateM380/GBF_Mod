@@ -20519,7 +20519,43 @@
 			"isFunction": false,
 			"action": "redirect",
 			"to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/enemy_8104413_c_ap.png"
-	}
+	},
+    {
+      "enable": true,
+      "name": "NPC-Cucouroux-f",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/f\\/3040539000_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-NPC-Cucouroux",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/f/3040539000_01_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "NPC-Cucouroux-quest",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/quest\\/3040539000_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-NPC-Cucouroux",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/quest/3040539000_01_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "NPC-Cucouroux-result_lvup",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/npc\\/result_lvup\\/3040539000_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-NPC-Cucouroux",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/result_lvup/3040539000_01_ap.png"
+    }
   ],
   "sendHeader": [],
   "receiveHeader": [],
