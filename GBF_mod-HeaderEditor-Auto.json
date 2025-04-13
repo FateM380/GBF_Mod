@@ -3613,7 +3613,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_normal/311303_sw_1_01_ap.jpg"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "leader-Honing_Seeker:_Eclipse-result",
       "ruleType": "redirect",
       "matchType": "regexp",
