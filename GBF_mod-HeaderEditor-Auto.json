@@ -3349,7 +3349,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_chain/311302_sw_1_01_ap.jpg"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "leader-Honing_Seeker:_Phantom-raid_log",
       "ruleType": "redirect",
       "matchType": "regexp",
