@@ -135,6 +135,11 @@ def convert_conf_to_json(conf_path: str, output_json_path: Optional[str] = None)
         # 确保名称中不包含反斜杠和空格
         final_name = final_name.replace('\\', '').replace(' ', '_')
 
+        # 特殊处理：如果 name 中包含 "cjs"，则强制启用
+        if "cjs" in final_name.lower():
+            is_enabled = True
+            print(f"🔧 检测到 'cjs' 字段，强制启用规则: {final_name}")
+
         # 输出详细解析信息
         print("=" * 60)
         print(f"🔍 规则 {index + 1}:")
