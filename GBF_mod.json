@@ -1,7 +1,7 @@
 {
   "request": [
     {
-      "enable": false,
+      "enable": true,
       "name": "Warlock-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -13,7 +13,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/wrk_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Warlock-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -709,7 +709,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/130401_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Smart_Elegance-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -721,7 +721,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/sut_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Smart_Elegance-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -973,7 +973,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/320001_kn_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Relic_Buster-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -985,7 +985,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/rlc_gu_1_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Relic_Buster-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -2698,7 +2698,235 @@
       "group": "GBF_mod-leader-Onmyoji",
       "isFunction": false,
       "action": "redirect",
-      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/150401_kn_1_01_ap.png"
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/150401_kn_1_01_ap.png^"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-btn_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/btn\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/btn/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-coop_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/coop\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/coop/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-jlon_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/jlon\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/jlon/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-job_change_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/job_change\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/job_change/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-jobon_z_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/jobon_z\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/jobon_z/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": false,
+      "name": "leader-Onmyoji-master_level_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/master_level\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/master_level/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-my_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/my\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/my/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-p_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/p\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/p/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-perfectionproof_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/perfectionproof\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/perfectionproof/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-pm_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/pm\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/pm/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-po_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/po\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/po/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-quest_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/quest\\/150401_kt_1_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/quest/150401_kt_1_01_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-raid_chain_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_chain\\/150401_kt_1_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_chain/150401_kt_1_01_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-raid_log_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_log\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_log/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-raid_normal_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/raid_normal\\/150401_kt_1_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/raid_normal/150401_kt_1_01_ap.jpg"
+    },
+    {
+      "enable": false,
+      "name": "leader-Onmyoji-result_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result\\/150401_kt_1_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result/150401_kt_1_01_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-result_lvup_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result_lvup\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_lvup/150401_kt_1_01_ap.png"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-result_ml_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/result_ml\\/150401_kt_1_01\\.jpg",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/result_ml/150401_kt_1_01_ap.jpg"
+    },
+    {
+      "enable": true,
+      "name": "leader-Onmyoji-zenith_1",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?:\\/\\/prd-game-a[0-9]?-granbluefantasy\\.akamaized\\.net\\/assets\\/img\\/sp\\/assets\\/leader\\/zenith\\/150401_kt_1_01\\.png",
+      "exclude": "",
+      "group": "GBF_mod-leader-Onmyoji",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/leader/zenith/150401_kt_1_01_ap.png"
     },
     {
       "enable": true,
@@ -5641,7 +5869,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/assets/npc/zoom/3040110000_91_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Vikala-cjs",
       "ruleType": "redirect",
       "matchType": "regexp",
@@ -5653,7 +5881,7 @@
       "to": "https://raw.githubusercontent.com/FateM380/GBF_Mod/main/GBF/cjs/npc_3710143000_01_ap.png"
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Vikala-cjs_1",
       "ruleType": "redirect",
       "matchType": "regexp",
