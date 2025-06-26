@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kghoq-ucprm
+created: 2025-06-16T21:41:04+08:00
