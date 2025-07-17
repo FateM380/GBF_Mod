@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: evyq9-gcgpg
+created: 2025-07-17T16:22:43+08:00
